@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+	background-color: rgb(43, 206, 151);
+}
+
+img {
+	width: 50%;
+	border: 5px solid rgb(21, 148, 106);
+	border-radius: 15px;
+}
+
+h1 {
+	color: white;
+	font-size: 60px;
+}
+
+h2 {
+	font-size: 40px;
+}
+
+p {
+	font-size: 30px;
+	color: white;
+	border-bottom: 2px solid white;
+}
